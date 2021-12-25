@@ -1,0 +1,76 @@
+@media (max-width: 480px) {
+    .search-form .search-input {
+        padding: 15px 50px 15px 50px;
+        margin-bottom: 30px;
+        margin-left: -28px;
+        width: 300px;
+    }
+    .search-form .search-icon {
+        position: absolute;
+        top: 21px;
+        bottom: 0px;
+        left: 0px;
+    }
+    .try-btn {
+        padding: 15px 17px;
+        text-decoration: none;
+        background-color: #2b4eff;
+        color: white;
+        margin-left: 0px;
+        border-radius: 5px;
+        transition: all .3s;
+        font-weight: 600;
+    }
+    .hero-area .hero-area-shape {
+        font-size: 40px;
+        font-weight: 900 !important;
+        color: black;
+    }
+    .hero-right-content .right-img-two {
+        top: 25px;
+    }
+    .explore {
+        padding: 39px 0px 0px 0px;
+        text-align: center;
+    }
+    .explore-icon {
+        margin: 19px 0px 0px 0px;
+    }
+    .hero-left-content .animated-headline::before {
+        top: 51%;
+    }
+    .explore .animated-headline2::before {
+        display: none;
+    }
+    .free-sub-content-left {
+        padding: 0px;
+    }
+    .free-sub-content-right .free-sub-img {
+        margin-top: 0px;
+        height: 200px;
+    }
+    .guide-btn-img {
+        display:none ;
+    }
+    .guide-main-content h1 {
+        font-size: 23px;
+    }
+    .guide-main-content {
+        padding: 10px 10px 70px 13px;
+    }
+    .guide-main-content .guide-btn {
+        margin-left: 0px;
+        margin-top: 0px;
+    }
+    .column-four-btn {
+        padding: 14px 20px;
+        border: none;
+        background-color: #2b4eff;
+        color: white;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        overflow: hidden;
+        right: 38px;
+    }
+  }
